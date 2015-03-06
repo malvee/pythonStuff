@@ -11,7 +11,7 @@ def minimumx(a, b):
         return a
     return b
 array = twoDimensionalArray(80,80)
-f = open("matrix.txt", "r")
+f = open("matrix81.txt", "r")
 row = 0
 column = 0
 for x in f:
